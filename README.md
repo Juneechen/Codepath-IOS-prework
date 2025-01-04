@@ -19,7 +19,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+![](https://i.imgur.com/k2UAQEH.gif)
+
 ## App Brainstorming (Step 4)
+Favorite app: IMessage
+- Qoute reply
+- Draging and placing sticker almost anywhere on the chat screen
 
 ## Notes
 
