@@ -2,7 +2,7 @@
 
 Submitted by: Shujun Chen
 
-Colorful Background is an app that display a random app background.
+Colorful Background is an app that displays a random app background through a button click.
 
 Time spent: 1 hours spent in total
 
